@@ -1,4 +1,4 @@
-# course23|Hello World
+# course23
 
 another test repository created from scratch
 
